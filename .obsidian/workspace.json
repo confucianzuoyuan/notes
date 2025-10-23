@@ -1,0 +1,251 @@
+{
+  "main": {
+    "id": "3155897f041154aa",
+    "type": "split",
+    "children": [
+      {
+        "id": "2fc89be13c03f0ec",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2ef8fca494187d1d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "历史简介.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "历史简介"
+            }
+          },
+          {
+            "id": "83a9ebb9f6632400",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "未命名.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "未命名"
+            }
+          },
+          {
+            "id": "dff9016c86075b26",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "未命名 1.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "未命名 1"
+            }
+          },
+          {
+            "id": "37391047ff3f98cf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "未命名 2.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "未命名 2"
+            }
+          },
+          {
+            "id": "ab9b5bad91ab03f6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "未命名.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "未命名"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "01d2aef8d0230af5",
+    "type": "split",
+    "children": [
+      {
+        "id": "2b09c33a5534238e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ced37693139a899c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "285fbf73115c28a7",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "df4d8228f3bfa3f7",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "a0ea9ad91366e383",
+    "type": "split",
+    "children": [
+      {
+        "id": "5244eef16b261c36",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "febeef1556be7ad2",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "未命名 1.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "未命名 1 的反向链接列表"
+            }
+          },
+          {
+            "id": "2c22eec869490a3e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "未命名 1.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "未命名 1 的出链列表"
+            }
+          },
+          {
+            "id": "4b5d1bedcc26eb4c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "5d178b7af2082ceb",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "未命名 1.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "未命名 1 的大纲"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "bases:创建新数据库": false,
+      "obsidian-excalidraw-plugin:新建绘图文件": false
+    }
+  },
+  "active": "37391047ff3f98cf",
+  "lastOpenFiles": [
+    "未命名 1.md",
+    "未命名 2.md",
+    "马尔可夫逆向.excalidraw.md",
+    "未命名.md",
+    "伽罗瓦理论/第一章 古典代数.md",
+    "历史简介.md",
+    "Pasted image 20251009153754.png",
+    "Pasted image 20251009152659.png",
+    "Pasted image 20251009152146.png",
+    "Pasted image 20251009151321.png",
+    "Pasted image 20251009145743.png",
+    "Pasted image 20251009144116.png",
+    "欢迎.md",
+    "ON THE THEORY OF STOCHASTIC PROCESSES, WITH PARTICULAR REFERENCE TO APPLICATIONS.md",
+    "伽罗瓦理论/前言.md",
+    "伽罗瓦理论",
+    "feller.pdf",
+    "1166219215.pdf.crdownload"
+  ]
+}
