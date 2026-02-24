@@ -4,81 +4,219 @@
     "type": "split",
     "children": [
       {
-        "id": "2fc89be13c03f0ec",
+        "id": "14c44631218979bc",
         "type": "tabs",
         "children": [
           {
-            "id": "2ef8fca494187d1d",
+            "id": "a00e1cbc78c8b3a2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "历史简介.md",
+                "file": "未命名 5.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "历史简介"
+              "title": "未命名 5"
             }
           },
           {
-            "id": "83a9ebb9f6632400",
+            "id": "604e2158e0b56f52",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "未命名.md",
-                "mode": "source",
-                "source": false
+                "file": "Drawing 2025-12-26 18.05.35.excalidraw.md"
               },
-              "icon": "lucide-file",
-              "title": "未命名"
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2025-12-26 18.05.35.excalidraw"
             }
           },
           {
-            "id": "dff9016c86075b26",
+            "id": "57582cc5f88aaa43",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "未命名 1.md",
-                "mode": "source",
-                "source": false
+                "file": "Excalidraw/Drawing 2026-01-19 14.29.11.excalidraw.md"
               },
-              "icon": "lucide-file",
-              "title": "未命名 1"
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2026-01-19 14.29.11.excalidraw"
             }
           },
           {
-            "id": "37391047ff3f98cf",
+            "id": "58c95c9cbe6cb944",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "未命名 2.md",
-                "mode": "source",
-                "source": false
+                "file": "Excalidraw/Drawing 2026-01-19 14.37.59.excalidraw.md"
               },
-              "icon": "lucide-file",
-              "title": "未命名 2"
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2026-01-19 14.37.59.excalidraw"
             }
           },
           {
-            "id": "ab9b5bad91ab03f6",
+            "id": "ef613cc56a6665e0",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2026-01-19 14.41.43.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2026-01-19 14.41.43.excalidraw"
+            }
+          },
+          {
+            "id": "1cda0308e114554b",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2026-01-19 14.59.43.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2026-01-19 14.59.43.excalidraw"
+            }
+          },
+          {
+            "id": "29a86ab6a5de4631",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2026-01-19 15.38.27.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2026-01-19 15.38.27.excalidraw"
+            }
+          },
+          {
+            "id": "cfb0174cbbf2d33d",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2026-01-19 16.51.29.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2026-01-19 16.51.29.excalidraw"
+            }
+          },
+          {
+            "id": "317c941fff12cfc2",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2026-01-19 17.43.56.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2026-01-19 17.43.56.excalidraw"
+            }
+          },
+          {
+            "id": "11c7cbc483cea150",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "未命名.md",
+                "file": "未命名 6.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "未命名"
+              "title": "未命名 6"
+            }
+          },
+          {
+            "id": "db5a69f89636364c",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "relu-activation.png"
+              },
+              "icon": "lucide-image",
+              "title": "relu-activation"
+            }
+          },
+          {
+            "id": "a875d05ad271351a",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2026-01-21 15.20.50.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2026-01-21 15.20.50.excalidraw"
+            }
+          },
+          {
+            "id": "34035d7a99398c3a",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2026-01-21 15.20.50.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2026-01-21 15.20.50.excalidraw"
+            }
+          },
+          {
+            "id": "bf43a30e27623617",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2026-01-21 17.38.56.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2026-01-21 17.38.56.excalidraw"
+            }
+          },
+          {
+            "id": "91bd2f4315c6415f",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2026-01-28 12.18.44.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2026-01-28 12.18.44.excalidraw"
+            }
+          },
+          {
+            "id": "36bf73b1d15498ce",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2026-02-02 11.43.38.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2026-02-02 11.43.38.excalidraw"
+            }
+          },
+          {
+            "id": "b96627de92781038",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2026-02-02 13.08.42.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2026-02-02 13.08.42.excalidraw"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 16
       }
     ],
     "direction": "vertical"
@@ -217,35 +355,58 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:新建数据库": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
       "canvas:新建白板": false,
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
-      "bases:创建新数据库": false,
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "37391047ff3f98cf",
+  "active": "b96627de92781038",
   "lastOpenFiles": [
-    "未命名 1.md",
+    "Excalidraw/Drawing 2026-02-02 13.08.42.excalidraw.md",
+    "Excalidraw/Drawing 2026-02-02 11.43.38.excalidraw.md",
+    "词嵌入-5.png",
+    "Excalidraw/Drawing 2026-01-28 12.18.44.excalidraw.md",
+    "词嵌入-1.png",
+    "算子融合后.png",
+    "梯度下降法.png",
+    "Pasted Image 20260202130948_983.png",
+    "词嵌入-4.png",
+    "词嵌入-3.png",
+    "词嵌入-2.png",
+    "Drawing 2025-12-19 17.47.58.excalidraw.md",
+    "tiktoken分词器在线网站.png",
+    "Pasted Image 20260202121314_523.png",
     "未命名 2.md",
-    "马尔可夫逆向.excalidraw.md",
+    "Excalidraw/Drawing 2026-01-21 17.38.56.excalidraw.md",
+    "未命名 7.md",
+    "Excalidraw/Drawing 2026-01-21 15.20.50.excalidraw.md",
     "未命名.md",
-    "伽罗瓦理论/第一章 古典代数.md",
-    "历史简介.md",
-    "Pasted image 20251009153754.png",
-    "Pasted image 20251009152659.png",
-    "Pasted image 20251009152146.png",
-    "Pasted image 20251009151321.png",
-    "Pasted image 20251009145743.png",
-    "Pasted image 20251009144116.png",
-    "欢迎.md",
+    "Excalidraw/Drawing 2026-01-20 16.10.48.excalidraw.md",
+    "未命名 6.md",
+    "Excalidraw/Drawing 2026-01-20 14.21.39.excalidraw.md",
+    "Excalidraw/Drawing 2026-01-19 17.43.56.excalidraw.md",
+    "Excalidraw/Drawing 2026-01-19 16.51.29.excalidraw.md",
+    "Excalidraw/Drawing 2026-01-19 15.38.27.excalidraw.md",
+    "Excalidraw/Drawing 2026-01-19 14.59.43.excalidraw.md",
+    "Excalidraw/Drawing 2026-01-19 14.41.43.excalidraw.md",
+    "Excalidraw/Drawing 2026-01-19 14.37.59.excalidraw.md",
+    "Excalidraw/Drawing 2026-01-19 14.29.11.excalidraw.md",
+    "Drawing 2025-12-26 18.05.35.excalidraw.md",
+    "Drawing 2025-12-22 08.33.07.excalidraw.md",
+    "TD误差收敛性证明.md",
+    "Drawing 2025-12-20 10.13.21.excalidraw.md",
+    "未命名 5.md",
     "ON THE THEORY OF STOCHASTIC PROCESSES, WITH PARTICULAR REFERENCE TO APPLICATIONS.md",
-    "伽罗瓦理论/前言.md",
-    "伽罗瓦理论",
+    "Excalidraw",
+    "wonderous-book/main.typ",
+    "wonderous-book",
     "feller.pdf",
+    "伽罗瓦理论",
     "1166219215.pdf.crdownload"
   ]
 }
